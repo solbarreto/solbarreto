@@ -1,0 +1,5 @@
+Este é um código simples em Java que simula um questionário de diagnóstico provisório para
+identificar a probabilidade de infecção por dengue com base em sintomas comuns. 
+O programa faz uma série de perguntas ao usuário sobre sintomas e a pontuação é calculada 
+de acordo com as respostas, onde o sistema determina a probabilidade de dengue. 
+https://replit.com/@SonalyBarreto/TCC#DengueQuestionnaire.java
