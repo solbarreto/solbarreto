@@ -3,7 +3,6 @@
 🐈 Sobre mim
 - 💻 Estudante de Ciência da Computação na UEPB 
 - 📚 Técnica em informática - IFPB
-- 🚀 Buscando por aprendizado contínuo
 - 🥊 Luto boxe no tempo livre
 
 
