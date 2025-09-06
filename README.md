@@ -12,6 +12,7 @@ Computer Technician • CS Student @ UEPB • Tech Enthusiast 🚀
 ## 📈 GitHub Overview
 
 <p>
+  <!-- Card de Stats -->
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=solbarreto&show_icons=true&theme=transparent&title_color=800000&icon_color=800000&text_color=FFFFFF&hide_border=true" 
@@ -22,6 +23,7 @@ Computer Technician • CS Student @ UEPB • Tech Enthusiast 🚀
     <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=solbarreto&show_icons=true&theme=transparent" />
   </picture>
 
+  <!-- Card de Top Languages -->
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=solbarreto&layout=compact&theme=transparent&title_color=800000&text_color=FFFFFF&hide_border=true" 
