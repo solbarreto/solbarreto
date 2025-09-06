@@ -12,10 +12,25 @@ Computer Technician • CS Student @ UEPB • Tech Enthusiast 🚀
 ## 📈 GitHub Overview
 
 <p>
-  <img height="150" alt="github stats"
-       src="https://github-readme-stats.vercel.app/api?username=solbarreto&show_icons=true&theme=transparent&title_color=800000&icon_color=800000&text_color=FFFFFF&hide_border=true" />
-  <img height="150" alt="top langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=solbarreto&layout=compact&theme=transparent&title_color=800000&text_color=FFFFFF&hide_border=true" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=solbarreto&show_icons=true&theme=transparent&title_color=800000&icon_color=800000&text_color=FFFFFF&hide_border=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=solbarreto&show_icons=true&theme=transparent&title_color=800000&icon_color=800000&text_color=000000&hide_border=true" 
+      media="(prefers-color-scheme: light)" />
+    <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=solbarreto&show_icons=true&theme=transparent" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=solbarreto&layout=compact&theme=transparent&title_color=800000&text_color=FFFFFF&hide_border=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=solbarreto&layout=compact&theme=transparent&title_color=800000&text_color=000000&hide_border=true" 
+      media="(prefers-color-scheme: light)" />
+    <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solbarreto&layout=compact&theme=transparent" />
+  </picture>
 </p>
 
 ## 🛠️ Tech Stack
